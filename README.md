@@ -3,11 +3,11 @@ Changes your wallpaper every given amount of time in seconds for a nice inspirob
 
 This is how it works:
 
-1.Input a time in seconds, ex: 10 (if you want to add time in minutes or hours you'll have to calculate it yourself).
+1. Input a time in seconds, ex: 10 (if you want to add time in minutes or hours you'll have to calculate it yourself).
 
-2.Click start
+2. Click start
 
-3.Enjoy your soul getting eaten
+3. Enjoy!
 
 ![Screenshot](screenshots/1.png)
 
@@ -18,6 +18,6 @@ This is how it works:
 ![Screenshot](screenshots/ex4.png)
 
 ### How to close
-There is only one way... but i'll surely change it someday
+There is only one way... but i'll change it someday.
 
 ![Screenshot](screenshots/close.png)
