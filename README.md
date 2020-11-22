@@ -1,7 +1,7 @@
 # InspiroBot Wallpapers
-Changes your wallpaper every given amount of time in seconds for a nice inspirobot.me quote.
+Changes your wallpaper every given amount of time in seconds with randomly generated inspirobot.me quote.
 
-This is how it works:
+Usage:
 
 1. Input a time in seconds, ex: 10 (if you want to add time in minutes or hours you'll have to calculate it yourself).
 
@@ -24,6 +24,6 @@ There is only one way... but i'll change it someday.
 
 ## Direct downloads
 
-Here are some direct download links for the executable:
+Here are some direct download links:
 * Dropbox: https://www.dropbox.com/s/d2iaplb0f4dofb8/InspiroBot%20Wallpapers%20v0.1.exe?dl=0
 * Mediafire: http://www.mediafire.com/file/mjz9jem30burkhp/InspiroBot_Wallpapers_v0.1.exe/file
