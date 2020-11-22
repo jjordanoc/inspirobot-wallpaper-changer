@@ -21,3 +21,9 @@ This is how it works:
 There is only one way... but i'll change it someday.
 
 ![Screenshot](screenshots/close.png)
+
+## Direct downloads
+
+Here are some direct download links for the executable:
+* Dropbox: https://www.dropbox.com/s/d2iaplb0f4dofb8/InspiroBot%20Wallpapers%20v0.1.exe?dl=0
+* Mediafire: http://www.mediafire.com/file/mjz9jem30burkhp/InspiroBot_Wallpapers_v0.1.exe/file
